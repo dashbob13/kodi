@@ -22,7 +22,7 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 http://msnbclive-lh.akamaihd.net/i/msnbc_live01@180610/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",NBC
-https://h5p2p.peer-stream.com/chunks/wnbc_sd.webm.mpd?cp=47509
+https://freeuscache1.streamlive.to/live/kjgkefh6la1di6g/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzAvMjAxNyAxMjoyMzo1MiBQTSZoYXNoX3ZhbHVlPW93WFF4bCtIeDgzaWJscWM2M0pvSVE9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
