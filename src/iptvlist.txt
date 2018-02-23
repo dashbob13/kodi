@@ -6,10 +6,8 @@ http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/index_2000_av-p.m3u8?sd=6&rebase
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/95/2f/0c/952f0c3d37264aeea837a2e40b4c2d1a.jpg" group-title=“Local News“,WABI TV5
 http://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo	
 
-#EXTINF:-1, NBC USA
-http://185.63.255.87:1935/liveedge/nbchhsy_i3ve6uqz/media_w1607181744_789.m3u8
+#EXTINF:-1, WGME 13
+https://content-ause4.uplynk.com/channel/26e532a9a241468794d8655f0cf4ad79/e.m3u8?pbs=f3f1da476dd84efeb52c18a3dc23ed61
 
-#EXTINF:-1, NBC USA 2
-http://192.99.147.19:5808/nbchdguys/index.m3
 
 
