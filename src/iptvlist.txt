@@ -9,5 +9,8 @@ http://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_to
 #EXTINF:-1, WGME 13
 https://content-ause4.uplynk.com/channel/26e532a9a241468794d8655f0cf4ad79/e.m3u8?pbs=f3f1da476dd84efeb52c18a3dc23ed61
 
+#EXTINF:-1, FOX 23
+https://content-ause1.uplynk.com/8fd99a0d84124d9f943950c62b850f37/g.m3u8?tc=1&exp=1519475695&rn=239869762&ct=a&cid=8fd99a0d84124d9f943950c62b850f37&sig=bf23142b40034fcc4abd7e9fd4c89d28c45360ee646adb7742a77f84b99eabf9&pbs=6abd5f1d79444e5b964ab063d611644c
+
 
 
