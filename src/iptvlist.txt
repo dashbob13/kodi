@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/797667046607691776/xhUcZJb4.jpg" group-title=“Local News“,WLBZ2
 http://wlbz-lh.akamaihd.net/i/WLBZ_Live_1@27474/index_2000_av-p.m3u8?sd=6&rebase=on
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vCj_jb1pRbaK61NlfTKCyuV1iRnUIJh2IuNdRnX-14QJfLErnPTllwRqNmIpMGYYeA4=w300" group-title=“Local News“,News Center Maine
+https://wcsh-lh.akamaihd.net/i/WCSH_Live_1@36770/index_2000_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/95/2f/0c/952f0c3d37264aeea837a2e40b4c2d1a.jpg" group-title=“Local News“,WABI TV5
 http://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo	
 
